@@ -1,0 +1,15 @@
+{
+    "configurations": [
+      {
+        "type": "lua-local",
+        "request": "launch",
+        "name": "Debug LÖVE",
+        "program": {
+          "command": "C:/Users/chahd/Documents/Love2D/bin/love.exe"
+        },
+        "args": [
+          "${workspaceFolder}"
+        ]
+      }
+    ]
+  }
